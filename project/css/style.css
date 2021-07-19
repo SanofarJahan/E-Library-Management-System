@@ -148,7 +148,7 @@ input,select{
 }
 select{margin-top:40px;background:#afeeee;}
 
-input:focus,select:focus { /* when u r using an input box the border glows in blue color*/
+input:focus,select:focus { 
     outline:none;
     border-color:#9ecaed;
     box-shadow:0 0 10px #9ecaed;
@@ -157,25 +157,25 @@ input:focus,select:focus { /* when u r using an input box the border glows in bl
 
 
 button {
-  margin-top:30px;/* space btw department nd submit button*/
+  margin-top:30px;
   
-  color: #ffff00;/*yellow text */
-  background: rgb(0,204,0);/* bg green colour in button*/
+  color: #ffff00;
+  background: rgb(0,204,0);
   padding: 8px 20px;
-  border-radius: 10px;/* rounds d edge*/
+  border-radius: 10px;
   
   text-transform: uppercase;
   transition: all 0.2s ease-in-out;
 }
 
 button:hover {
-  color: #0000ff;/* blue text */
-  background:#ffff33;/*yellow bg*/
+  color: #0000ff;
+  background:#ffff33;
   box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
 }
 
 li{
-	margin:20px 0px;/* space btw admin login nd user login*/
+	margin:20px 0px;
 
 }
 
@@ -213,10 +213,10 @@ li a:hover{
 }
 .record li{
 	
-	margin:15px 0px;/*top nd bottom=15, ryt nf left=0*/
+	margin:15px 0px;
 	font-size:20px;
 	font-weight:bold;
-	color:#339900;/*green text in ahome page*/
+	color:#339900;
 }
 
 
@@ -227,11 +227,11 @@ li a:hover{
 	color:#00cc00;
 }
 table{
-		width:100%;/* to fit whole pg*/
+		width:100%;
 		border-collapse:collapse;
 		
 	}
 	table td,table th{
-		border:0.1px solid black;/*thin lines of table*/
-		padding:5px;/*spacing inside table*/
+		border:0.1px solid black;
+		padding:5px;
 	}
