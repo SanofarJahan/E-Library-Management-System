@@ -1,4 +1,23 @@
 # E-Library-Management-System
+Using HTML, CSS, PHP and SQL an online library website has been created which supports the following user and admin functions. To run this project WAMP server has been used to host PHP pages.
+# USER FUNCTIONS SUPPORTED BY THIS WEBSITE
+- NEW USER REGISTRATION
+- SEARCH FOR BOOKS AND READ BOOKS
+- READ REVIEWS POSTED BY OTHER USERS
+- POST REVIEWS 
+- REQUEST FOR BOOKS 
+- CHANGE PASSWORD
+- LOG OUT
+# ADMIN FUNCTIONS SUPPORTED BY THIS WEBSITE
+- LOGIN
+- VIEW STUDENT DETAILS
+- VIEW BOOK DETAILS
+- VIEW REQUEST DETAILS
+- VIEW REVIEW DETAILS
+- UPLOAD BOOKS TO WEBSITE
+- CHANGE PASSWORD
+- LOG OUT
+
 - HOME PAGE
 ![image](https://user-images.githubusercontent.com/87316028/126157102-be1f1f91-cc51-4512-a0bc-52b4f912def1.png)
 - ADMIN 
